@@ -21,7 +21,6 @@ already imported for you!
 Write the rest of your code in the `script` file. You can execute a python file
 by doing `python3 lib/script.py`
 
-Please turn in your submission by the deadline on your cohort calendar.
 
 ## Requirements
 
@@ -70,13 +69,5 @@ few states for testing purposes.
 - Add a hint functionality that prints the first 3 letters of a capital
 
 ## Plagiarism
-
-Take a moment to refamiliarize yourself with the
-[Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md).
-Plagiarized work will not be accepted.
-
-## [License](LICENSE)
-
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
-    alternative licensing, please contact legal@ga.co.
+- Don't do it
+- You should know this by now
